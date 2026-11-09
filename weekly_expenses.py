@@ -1,4 +1,4 @@
-# Student Weekly Expense Calculator
+ Student Weekly Expense Calculator
 # Filename: weekly_expenses.py
 
 # INPUT
